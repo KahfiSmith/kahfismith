@@ -1,7 +1,7 @@
-<p align="left">Hi 👋,</p>
+<p align="left">Hi there👋,</p>
 <br>
-<p align="left">I'm Kahfi Web Developer</p>
-<p align="left">I'm from Indonesia</p>
+<p align="left">I'm a web developer based in Indonesia</p>
+<p align="left">Nice to meet you</p>
 
 - 🌱 I’m currently learning **Laravel, Javascript**
 
