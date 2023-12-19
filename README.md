@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamad Al-Kahfi</h1>
 <h3 align="center">A passionate frontend web developer from Indonesia</h3>
-https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif
+
+[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahfismith&label=Profile%20views&color=0e75b6&style=flat" alt="kahfismith" /> </p>
 
