@@ -1,6 +1,5 @@
 <p align="left">Hi there👋,</p>
 <p align="left">I'm a web developer based in Indonesia</p>
-<br>
 
 - 🌱 I’m currently learning **Laravel, Javascript**
 
