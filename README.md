@@ -4,7 +4,8 @@
 
 🌱 I’m currently learning **Laravel, Javascript**
 
-## My Skill Set  
+## My Skill Set 
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -39,7 +40,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50"/> </a>
 </div>
 
-</td></tr></table>  
+</td></tr></table>
+</div>
 <br> 
 
 ## Connect with me  
