@@ -7,9 +7,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-
 ### Frontend  
 <br>
 <div align="center">  
@@ -35,6 +32,7 @@
 </td><td valign="top" width="33%">
 
 ### Other
+<br>
 <div align="center">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
@@ -42,6 +40,23 @@
 </div>
 
 </td></tr></table>  
+<br> 
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/KahfiSmith" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@lsfdyt" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100028652941985" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br>
+
+## Github Stats  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfismith&layout=compact&theme=buefy&hide_border=true" />
 
