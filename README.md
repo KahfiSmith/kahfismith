@@ -8,8 +8,8 @@
 <div align="center">
 <table><tr><td valign="top" width="33%">
 
-<div align="center" font-weight="550">
-Frontend  
+<div align="center">
+<strong>Frontend</strong>
 </div>
 
 
@@ -25,7 +25,7 @@ Frontend
 </td><td valign="top" width="33%">
 
 <div align="center">
-### Backend  
+<strong>Backend</strong>
 </div> 
 <br>
 <div align="center">  
@@ -40,7 +40,7 @@ Frontend
 </td><td valign="top" width="33%">
 
 <div align="center">
-### Others  
+<strong>Others</strong> 
 </div>
 <br>
 <div align="center">
