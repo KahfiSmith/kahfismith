@@ -1,4 +1,4 @@
-<img src="[https://github.com/qya/qya/raw/master/foxy.gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" width="50">
+<img src="https://github.com/qya/qya/raw/master/foxy.gif" width="50">
 
 <p align="left">Hi there👋,</p>
 <p align="left">I'm a web developer based in Indonesia</p>
