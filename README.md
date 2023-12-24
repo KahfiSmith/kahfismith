@@ -8,9 +8,10 @@
 <div align="center">
 <table><tr><td valign="top" width="33%">
 
-<div align="center">
-### Frontend  
+<div align="center" font-weight="550">
+Frontend  
 </div>
+
 
 <br>
 <div align="center">  
