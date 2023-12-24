@@ -10,6 +10,3 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfismith&layout=compact&theme=buefy&hide_border=true" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahfismith&show_icons=true&locale=en&layout=compact" alt="kahfismith" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&locale=en" alt="kahfismith" /></p>
