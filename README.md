@@ -12,7 +12,6 @@
 <strong>Frontend</strong>
 </div>
 
-
 <br>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -27,6 +26,7 @@
 <div align="center">
 <strong>Backend</strong>
 </div> 
+
 <br>
 <div align="center">  
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel"  height="50"/> </a> 
@@ -42,6 +42,7 @@
 <div align="center">
 <strong>Others</strong> 
 </div>
+
 <br>
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
