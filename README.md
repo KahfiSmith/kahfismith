@@ -2,7 +2,7 @@
 <img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/anime-flex.gif" width="100">
 <p align="left">I'm a web developer based in Indonesia</p>
 
-🌱 I’m currently learning **Laravel, Javascript**
+🌱 I’m currently learning **Laravel & Javascript**
 
 ## My Skill Set 
 <div align="center">
