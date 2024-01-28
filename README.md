@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **Laravel & Javascript**
 
-## My Skill Set 
+## Tech Stack
 <div align="center">
 <table><tr><td valign="top" width="33%">
 
