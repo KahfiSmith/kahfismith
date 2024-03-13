@@ -1,5 +1,5 @@
 <p align="left">Hi there👋,</p>
-<img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/anime-flex.gif" width="100">
+
 <img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/loli_dance.gif" width="100">
 <p align="left">I'm a web developer based in Indonesia</p>
 
