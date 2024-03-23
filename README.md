@@ -30,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚔ Languages-Frameworks-Tools ⚒⚔</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
@@ -57,4 +57,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfismith&layout=compact&theme=synthwave&hide_border=true" />
 </div>
 
-<br/><br/>
+<br/>
+
+<hr>
+
+<h2 align="center">👑 Coding Time 👑</h2>
+
+<center>
+    <a href="https://wakatime.com/@KahfiSmith">
+        <img width=590 src="https://github-readme-stats.vercel.app/api/wakatime?username=kahfismith&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10" alt="akhdan's WakaTime stats">
+    </a>
+</center>
