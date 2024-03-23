@@ -44,14 +44,15 @@
   
   <br/>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&rank_icon=github&bg_color=000000&text_color=FFFFFF" />
-</a>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&rank_icon=github&bg_color=000000&text_color=FFFFFF" />
+</a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfismith&layout=compact&theme=buefy&hide_border=true" />
 </div>
 
