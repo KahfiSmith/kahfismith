@@ -51,7 +51,7 @@
 <br>
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&rank_icon=github&bg_color=000000&text_color=FFFFFF" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith" />
 </a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfismith&layout=compact&theme=buefy&hide_border=true" />
 </div>
