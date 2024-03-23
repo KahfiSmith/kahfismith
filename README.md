@@ -11,10 +11,12 @@
 <div align="center">
  
  🌱 I’m currently learning **Laravel & Javascript**
+ 🌻 I like sunflower 
+ ☕ I like caffeine
 
  </div>
  
- ##Connect with me  
+<h4 align="center">Connect with me</h4>
  
 <div align="center"> 
   <a href="mailto:alkahfii2018@gmail.com@gmail.com">
