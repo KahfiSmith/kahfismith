@@ -70,7 +70,7 @@
 </div>
 
 <center>
-    <a href="https://wakatime.com/@AkhdanRe">
+    <a href="https://wakatime.com/@KahfiSmith">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akhdanre&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10" alt="akhdan's WakaTime stats">
     </a>
 </center>
