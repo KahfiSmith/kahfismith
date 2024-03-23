@@ -13,10 +13,8 @@
  🌱 I’m currently learning **Laravel & Javascript**
 
  </div>
-
- <hr>
-
-<h2 align="center">🌱 Connect With Me 🌱</h2> 
+ 
+ ##Connect with me  
  
 <div align="center"> 
   <a href="mailto:alkahfii2018@gmail.com@gmail.com">
