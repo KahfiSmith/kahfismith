@@ -11,7 +11,9 @@
 <div align="center">
  
  🌱 I’m currently learning **Laravel & Javascript**
+ <br>
  🌻 I like sunflower 
+ <br>
  ☕ I like caffeine
 
  </div>
