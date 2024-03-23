@@ -63,8 +63,10 @@
 
 <h2 align="center">👑 Coding Time 👑</h2>
 
-<center>
+<div align="center">
     <a href="https://wakatime.com/@KahfiSmith">
-        <img width=590 src="https://github-readme-stats.vercel.app/api/wakatime?username=kahfismith&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10" alt="akhdan's WakaTime stats">
+        <img width=590 src="https://github-readme-stats.vercel.app/api/wakatime?username=kahfismith&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10">
     </a>
-</center>
+</div>
+
+<br>
