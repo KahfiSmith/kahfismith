@@ -53,4 +53,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfismith&layout=compact&theme=buefy&hide_border=true" />
 </div>
 
+<center>
+    <a href="https://wakatime.com/@KahfiSmith">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kahfismith&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10" alt="">
+    </a>
+</center>
+
 <br/><br/>
