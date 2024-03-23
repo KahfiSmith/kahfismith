@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,java,mysql,git,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,java,mysql,firebase,postman,git,figma&perline=3" /><br>
 </div>
 
 <br/>
