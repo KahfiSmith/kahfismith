@@ -45,7 +45,7 @@
 <br> 
 
 <div align="center">
-<img align="center" width=400; src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Stats" /> | <img align="center" width=400; src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfismith&layout=compact&theme=synthwave&hide_border=true" />
+<img align="center" width=500; src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Stats" /> | <img align="center" width=400; src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfismith&layout=compact&theme=synthwave&hide_border=true" />
 </div>
 
 <br/>
