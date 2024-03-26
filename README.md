@@ -27,7 +27,7 @@
 
  <hr/>
  
-<h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
+<h2 align="center"> Languages Frameworks Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
@@ -37,7 +37,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 
 <br> 
 
@@ -49,7 +49,7 @@
 
 <hr>
 
-<h2 align="center">👑 Coding Time 👑</h2>
+<h2 align="center"> Coding Time </h2>
 
 <div align="center">
     <a href="https://wakatime.com/@KahfiSmith">
