@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Laravel & Javascript**
+ 🌱 I’m currently learning **Javascript, React.js & Node.js**
 
  </div>
  
