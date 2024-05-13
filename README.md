@@ -28,7 +28,7 @@
 <h2 align="center"> Languages Frameworks Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite" />
     <img src="https://skillicons.dev/icons?i=php,laravel,python,java,mysql,firebase,postman,git,figma" /><br>
 </div>
 
