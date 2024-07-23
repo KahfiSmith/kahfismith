@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **React.js Node.js & Express.js**
+ 🌱 I’m currently learning **React.js & TypeScript**
 
  </div>
  
