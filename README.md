@@ -28,8 +28,8 @@
 <h2 align="center"> Programming Language </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,vite" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=laravel,mysql" /><br>
 </div>
 
 <br/>
