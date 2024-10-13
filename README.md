@@ -12,7 +12,7 @@
 
  </div>
  
-<h4 align="center">Connect with me </h4>
+<h4 align="center">Connect with me</h4>
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/mohamad-al-kahfi-b48107271/" target="_blank">
