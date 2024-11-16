@@ -26,7 +26,6 @@
  <hr/>
  
 <h2 align="center"> Programming Language </h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react" />
     <img src="https://skillicons.dev/icons?i=laravel,express,mysql" /><br>
