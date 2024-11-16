@@ -35,12 +35,4 @@
 <br/>
 <hr/>
 
-<h2 align="center"> Stats </h2>
-
-<br> 
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahfismith&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Stats" />
-</div>
-
 <br>
