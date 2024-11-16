@@ -31,8 +31,3 @@
     <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react" />
     <img src="https://skillicons.dev/icons?i=laravel,express,mysql" /><br>
 </div>
-
-<br/>
-<hr/>
-
-<br>
