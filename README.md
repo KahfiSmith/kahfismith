@@ -25,7 +25,7 @@
 
  <hr/>
  
-<h2> Programming Language </h2>
+<div align="center"> Programming Language </div>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react" />
