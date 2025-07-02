@@ -25,7 +25,7 @@
 
  <hr/>
  
-<h3 align="center"> Programming Language </h3>
+<h3 align="center"> Tech Stack </h3>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs" />
