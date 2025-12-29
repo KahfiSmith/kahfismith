@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/romance.jpg" width="100%">
+    <img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/romance.jpg" width="100%" heigh="400px">
 </h1>
 
 <h3 align="center">I'm a frontend web developer based in Indonesia</h3>
