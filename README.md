@@ -1,7 +1,7 @@
 <h1 align="center">
    <img 
   src="https://github.com/KahfiSmith/KahfiSmith/blob/main/couple.jpg"
-  style="width:380px;"
+  style="width:390px;"
 >
 </h1>
 
