@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🐋 I’m currently learning **React.js & Next.js with TypeScript**
+ 🐋 I’m currently learning **React.js, Next.js & Vue.js with TypeScript**
 
  </div>
  
