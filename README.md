@@ -1,5 +1,8 @@
 <h1 align="center">
-   <img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/romance.jpg" width="100%" height="300px">
+   <img 
+  src="https://github.com/KahfiSmith/KahfiSmith/blob/main/romance.jpg"
+  style="width:100%; height:400px; object-fit:cover;"
+>
 </h1>
 
 <h3 align="center">I'm a frontend web developer based in Indonesia</h3>
