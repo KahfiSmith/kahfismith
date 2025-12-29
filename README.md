@@ -1,6 +1,6 @@
 <h1 align="center">
    <img 
-  src="https://github.com/KahfiSmith/KahfiSmith/blob/main/yash.jpg"
+  src="https://github.com/KahfiSmith/KahfiSmith/blob/main/favgurl.jpg"
   style="width:200px;"
 >
 </h1>
