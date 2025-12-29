@@ -1,6 +1,7 @@
 <h1 align="center">
+    <img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/anime-dlfex.gif" width="200">
     <img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/loli-dance.gif" width="200">
-    <img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/loli-dance.gif" width="200">
+    <img src="https://github.com/KahfiSmith/KahfiSmith/blob/main/romance.jpg" width="100%">
 </h1>
 
 <h3 align="center">I'm a frontend web developer based in Indonesia</h3>
