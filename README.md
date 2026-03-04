@@ -7,7 +7,7 @@
 <h3 align="center">I'm a frontend web developer based in Indonesia</h3>
 <br/>
 <div align="center">
- 🐋 I’m currently learning React.js, Next.js & Vue.js with TypeScript
+ 🐋 I’m currently learning React.js, Next.js & Vue.js with TypeScript and Golang
  </div>
 <h4 align="center">Connect with me</h4>
 <div align="center"> 
