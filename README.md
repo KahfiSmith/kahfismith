@@ -7,7 +7,7 @@
 <h3 align="center">I'm a frontend web developer based in Indonesia</h3>
 <br/>
 <div align="center">
- 🐋 I’m currently learning React.js, Next.js & Vue.js with TypeScript and Golang
+ 🐋 I’m currently learning Vue.js and Golang
  </div>
 <h4 align="center">Connect with me</h4>
 <div align="center"> 
@@ -23,5 +23,5 @@
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,vue" />
-    <img src="https://skillicons.dev/icons?i=golang,laravel,express,mysql,supabase,postgres,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=golang,express,laravel,mysql,supabase,postgres,firebase" /><br>
 </div>
