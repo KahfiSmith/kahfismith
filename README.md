@@ -4,7 +4,7 @@
   style="width:200px;"
 >
 </h1> -->
-<h2 align="center">I'm a frontend web developer based in Indonesia</h3>
+<h3 align="center">I'm a frontend web developer based in Indonesia</h3>
 <br/>
 <div align="center">
  🐋 I’m currently learning Vue.js and Golang
