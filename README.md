@@ -1,10 +1,10 @@
-<h1 align="center">
+<!-- <h1 align="center">
    <img 
   src="https://github.com/KahfiSmith/KahfiSmith/blob/main/favgurl.jpg"
   style="width:200px;"
 >
-</h1>
-<h3 align="center">I'm a frontend web developer based in Indonesia</h3>
+</h1> -->
+<h2 align="center">I'm a frontend web developer based in Indonesia</h3>
 <br/>
 <div align="center">
  🐋 I’m currently learning Vue.js and Golang
