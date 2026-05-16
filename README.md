@@ -23,5 +23,5 @@
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,vue" />
-    <img src="https://skillicons.dev/icons?i=golang,express,laravel,mysql,supabase,postgres,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=golang,express,nestjs,laravel,mysql,supabase,postgres,firebase" /><br>
 </div>
