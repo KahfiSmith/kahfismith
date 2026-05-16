@@ -7,7 +7,7 @@
 <h3 align="center">I'm a frontend web developer based in Surabaya, Indonesia</h3>
 <br/>
 <div align="center">
- 🐋 I’m currently exploring Vue.js and Go
+ 🐋 I’m currently exploring Vue.js, Nest.js and Go
  </div>
 <h4 align="center">Connect with me</h4>
 <div align="center"> 
