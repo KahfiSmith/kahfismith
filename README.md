@@ -4,7 +4,7 @@
   style="width:200px;"
 >
 </h1> -->
-<h3 align="left">I'm a frontend web developer based in Nganjuk, Indonesia</h3>
+<h4 align="left">I'm a frontend web developer based in Nganjuk, Indonesia</h3>
 <br/>
 <div align="left">
  🐋 I’m currently exploring Vue.js, Nest.js and Go
@@ -19,7 +19,7 @@
   </a>
 </div>
  <hr/>
-<h3 align="left"> Tech Stack </h3>
+<h4 align="left"> Tech Stack </h3>
 <br>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,vue" />
