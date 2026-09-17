@@ -6,7 +6,7 @@
 </h1> -->
 <h3 align="left">I'm a frontend web developer based in Nganjuk, Indonesia</h3>
 <div align="left">
- 🐋 I’m currently exploring Vue.js, Nest.js and Go
+ 🐋 I’m currently exploring ASP.NET
  </div>
 <h3 align="left">Connect with me</h4>
 <div align="left"> 
