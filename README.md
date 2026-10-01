@@ -3,7 +3,7 @@
   src="https://github.com/KahfiSmith/KahfiSmith/blob/main/favgurl.jpg"
   style="width:200px;"
 >
-</h1> -->
+</h1> --> 
 <h3 align="left">I'm a frontend web developer based in Nganjuk, Indonesia</h3>
 <div align="left">
  🐋 I’m currently exploring ASP.NET 
