@@ -1,5 +1,5 @@
 <!-- <h1 align="center">
-   <img 
+   <img
   src="https://github.com/KahfiSmith/KahfiSmith/blob/main/favgurl.jpg"
   style="width:200px;"
 >
