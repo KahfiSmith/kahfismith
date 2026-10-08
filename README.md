@@ -4,7 +4,7 @@
   style="width:200px;"
 >
 </h1> --> 
-<h3 align="left">I'm a frontend web developer based in Nganjuk, Indonesia</h3>
+<h3 align="left">I'm a frontend web developer based in Nganjuk, Indonesia</h3> 
 <div align="left"> 
  🐋 I’m currently exploring ASP.NET 
  </div>
